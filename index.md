@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Talk is cheap, Show me the CODE.
 
-I'm glad you are here. I plan to talk about ...
+I'm still learning how to host a blog!
